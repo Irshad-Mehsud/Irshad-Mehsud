@@ -1,11 +1,9 @@
 # Hi there, I'm Irshad Ahmad 👨💻
 
-![Irshad Ahmad](./assets/profile.jpg) 
-
 [![Front-End Developer](https://img.shields.io/badge/-Front%20End%20Developer-61DAFB?style=flat&logo=react&logoColor=white)](https://github.com/Irshad-Ahmad-07)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://my-portfolio-inky-two-68.vercel.app/)
 
-Passionate front-end developer specializing in creating modern, responsive web applications. Focused on crafting clean code and pixel-perfect user interfaces. Currently exploring full-stack development possibilities.
+I am a front-end web developer.I can provide clean code and pixel perfect deign. I also make the website more & more interactive with web animations. A responsive design make your website accessible to all users,regardless of their device.
 
 ## 🛠 Tech Stack
 
